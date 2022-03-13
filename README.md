@@ -36,8 +36,8 @@
 
 ### :fire: My Stats :
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BadNarrators&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadNarrators&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuciusHeit&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciusHeit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
