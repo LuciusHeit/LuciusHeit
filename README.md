@@ -19,25 +19,55 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>Java</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>Spring</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>Python</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>PHP</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
+            </td>
+          <tr valign="top">
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>C#</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>PostgreSQL</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>Git</strong></span><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>Linux</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+            </td>
+      </tr>
+  </tbody>
+  </table>
   
 </div>
 
 ------
 
 ### :fire: My Stats :
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuciusHeit&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciusHeit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=LuciusHeit&theme=dracula&date_format=j%20M%5B%20Y%5D"><br><br>
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciusHeit&layout=compact&theme=vision-friendly-dark">
+</div>
 
 ---
 
