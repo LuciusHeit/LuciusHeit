@@ -72,5 +72,7 @@
 ---
 
 ### 😆 Joke of the Day :
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+<div align="center">
+  <img align="center" width="50%" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51">
+</div>
 
