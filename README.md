@@ -53,7 +53,7 @@
             </td>
             <td width="120px" height="120px" align="center" valign="middle">
             <span><strong>PostgreSQL</strong></span><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
             </td>
             <td width="120px" height="120px" align="center" valign="middle">
             <span><strong>Git</strong></span><br>
