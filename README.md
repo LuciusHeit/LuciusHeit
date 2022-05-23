@@ -23,10 +23,6 @@
     <tbody>
         <tr valign="top">
             <td width="120px" height="120px" align="center" valign="middle">
-            <span><strong>Java</strong></span><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-            </td>
-            <td width="120px" height="120px" align="center" valign="middle">
             <span><strong>Spring</strong></span><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
             </td>
@@ -35,25 +31,37 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
             </td>
             <td width="120px" height="120px" align="center" valign="middle">
-            <span><strong>PHP</strong></span><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
+            <span><strong>NodeJS</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>Lua</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>.NET</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="CSharp" alt="CSharp" width="60" height="60"/>&nbsp;
             </td>
           <tr valign="top">
             <td width="120px" height="120px" align="center" valign="middle">
-            <span><strong>C#</strong></span><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="60" height="60"/>&nbsp;
+            <span><strong>NodeJS</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+            </td>
+            <td width="120px" height="120px" align="center" valign="middle">
+            <span><strong>Unity</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
             </td>
             <td width="120px" height="120px" align="center" valign="middle">
             <span><strong>PostgreSQL</strong></span><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
             </td>
             <td width="120px" height="120px" align="center" valign="middle">
             <span><strong>Git</strong></span><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
             </td>
             <td width="120px" height="120px" align="center" valign="middle">
-            <span><strong>Linux</strong></span><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+            <span><strong>Debian</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" title="Debian" alt="Debian" width="60" height="60"/>&nbsp;
             </td>
       </tr>
   </tbody>
