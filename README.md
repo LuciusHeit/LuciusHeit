@@ -12,8 +12,8 @@
 ### 🕺About Me:
 
 - 👨‍💻 I'm currently working as a Backend Developer in Italy
-- 🔭 My latest project is called TiamaD, a streamers' utility that aims to be more in touch with the streamer's community and simplify his life
-- 👯 I’m looking to collaborate on the aforementioned project, especially on the Frontend side
+- 🔭 My latest and biggest project is called TiamaD, a streamers' utility that aims to be more in touch with the streamer's community and simplify his life
+- 👯 I’m looking to collaborate on the aforementioned project, especially on the Frontend side, or on any other if they could peak my interest
 - 📫 You can email me at andreaatzei01@gmail.com
 
 ---
