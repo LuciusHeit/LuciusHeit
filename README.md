@@ -12,8 +12,7 @@
 ### 🕺About Me:
 
 - 👨‍💻 I'm currently working as a Freelance Fullstack Developer in Italy
-- 🔭 My latest and biggest open-source project is called TiamaD, a streamers' utility that aims to be more in touch with the streamer's community and simplify their life
-- 👯 I’m looking to collaborate on the aforementioned project, especially on the Frontend side, or on any other if they could peak my interest
+- 🔭 I'm currently working on a hard sci-fi spaceship simulator, but it's still in the early stages of development
 - 📫 You can email me at andreaatzei01@gmail.com
 
 ---
