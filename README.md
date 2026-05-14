@@ -30,8 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
             </td>
             <td width="120px" height="120px" align="center" valign="middle">
-            <span><strong>NodeJS</strong></span><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+            <span><strong>Rust</strong></span><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="60" height="60"/>&nbsp;
             </td>
             <td width="120px" height="120px" align="center" valign="middle">
             <span><strong>Lua</strong></span><br>
